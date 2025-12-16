@@ -6,7 +6,11 @@ A Flutter flight booking application with a modern travel/aviation theme. Search
 
 | Splash | Home | Flight Results |
 |--------|------|----------------|
-| ![Splash Screen](screenshots/splash.png) | ![Home Screen](screenshots/home.png) | ![Flight Results](screenshots/flight_results.png) |
+| ![Splash Screen](screenshots/splash.jpg) | ![Home Screen](screenshots/home_screen.jpg) | ![Flight Results](screenshots/flight_results.jpg) |
+
+|   |   |   |
+|---|---|---|
+| ![Home](screenshots/home.jpg) | ![Hotels](screenshots/hotels.jpg) | ![Flight Search](screenshots/flight_search.jpg) |
 
 
 ## Features
@@ -34,12 +38,6 @@ A Flutter flight booking application with a modern travel/aviation theme. Search
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/nz_trip.git
-
-# Navigate to project directory
-cd nz_trip
-
 # Install dependencies
 flutter pub get
 
