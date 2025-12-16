@@ -12,8 +12,6 @@ A Flutter flight booking application with a modern travel/aviation theme. Search
 |---|---|---|
 | ![Home](screenshots/home.jpg) | ![Hotels](screenshots/hotels.jpg) | ![Flight Search](screenshots/flight_search.jpg) |
 
-|   |   |   |
-
 ## Features
 
 - 🔍 Flight search with round-trip/one-way options
