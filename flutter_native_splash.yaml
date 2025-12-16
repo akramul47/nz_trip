@@ -1,0 +1,22 @@
+flutter_native_splash:
+  # Background color
+  color: "#0000CD"
+
+  # Images must be in your assets folder
+  image: assets/images/splash_logo.png
+  branding: assets/images/splash_text.png
+
+  # The position can be centered (default) or bottom
+  android_gravity: center # Valid values: center, bottom
+  ios_content_mode: center # Valid values: center, scaleAspectFit
+  
+  # Controls android 12
+  android_12:
+    # Splash screen background color.
+    color: "#0000CD"
+
+    # App icon background color.
+    icon_background_color: "#000000"
+
+  # Disable fullscreen by setting to false
+  fullscreen: true
